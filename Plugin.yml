@@ -1,0 +1,6 @@
+---
+name: PluginA5t9ar
+author: Plug_mcpe
+main: PluginA5t9ar\Main
+version: 1.0
+api: [2.0.0]
