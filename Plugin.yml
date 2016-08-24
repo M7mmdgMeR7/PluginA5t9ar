@@ -4,3 +4,15 @@ author: Plug_mcpe
 main: PluginA5t9ar\Main
 version: 1.0
 api: [2.0.0]
+commands:
+    h:
+        description: heal yourself
+      mass:
+         description: send massage args
+      g1:
+         description: set gamemode 1
+      g0:
+         description: set gamemode 0
+      g2:
+         description: set gamemode 2
+
